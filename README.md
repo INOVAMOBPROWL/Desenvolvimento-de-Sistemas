@@ -99,14 +99,6 @@ Para gerenciar o progresso do projeto **INOVAMOB**, estamos utilizando a metodol
 
 O quadro Kanban é utilizado para gerenciar as tarefas do projeto de maneira visual e colaborativa. Clique abaixo para acessar o quadro no **Trello** e acompanhar o progresso:
 
-[Trello - Quadro Kanban do Projeto INOVAMOB](https://trello.com/inovamob)
+[Trello - Quadro Kanban do Projeto INOVAMOB](https://trello.com/b/OT3Ox5vP/inovamob)
 
 ---
-
-### Explicações de Estilo:
-
-- **Listas e tabelas**: Usei listas e tabelas para estruturar informações de maneira clara.
-- **Imagens**: Os diagramas são apresentados com a sintaxe básica de Markdown para imagens (`![Texto alternativo](caminho)`).
-- **Links**: Usei links de forma limpa para o quadro Kanban no Trello.
-
-
