@@ -13,7 +13,6 @@ Este repositório contém a documentação e o código-fonte do projeto **INOVAM
 - [Diagrama de Sequência](#diagrama-de-sequência)
 - [Diagrama de Pacote](#diagrama-de-pacote)
 - [Lista de Requisitos Funcionais e Não Funcionais](#lista-de-requisitos-funcionais-e-não-funcionais)
-- [Diagrama UML](#diagrama-uml)
 - [Caso de Teste](#caso-de-teste)
 - [Kanban](#kanban)
 
@@ -81,14 +80,6 @@ O diagrama de pacote organiza o sistema em pacotes, que são grupos de classes o
 
 ---
 
-## Diagrama UML
-
-O diagrama UML do sistema descreve a estrutura e os relacionamentos entre os componentes, proporcionando uma visão detalhada de como o sistema funciona em termos de objetos e interações.
-
-![Diagrama UML](caminho/para/imagem/diagrama_uml.png)
-
----
-
 ## Caso de Teste
 
 ### Caso de Teste 1: Cadastro de Usuário
@@ -128,19 +119,15 @@ O quadro Kanban é utilizado para gerenciar as tarefas do projeto de maneira vis
 
 ---
 
-## Repositórios para Imagens dos Diagramas
+## Repositórios dos Diagramas e dos Requisitos
 
-Aqui estão os repositórios sugeridos para armazenar e gerenciar as imagens dos diagramas de seu projeto. Você pode criar pastas específicas para cada tipo de diagrama e fazer upload das imagens diretamente no GitHub.
+As imagens dos diagramas utilizados no projeto **INOVAMOB** estão organizadas em repositórios dedicados para cada tipo de diagrama. Abaixo estão os links diretos para os repositórios, onde você pode acessar e fazer o upload das imagens dos diagramas correspondentes:
 
-- **Repositório de Diagramas**: [GitHub - INOVAMOB Diagramas](https://github.com/SEU-USER/INOVAMOB-Diagramas)
-  - **Caso de Uso**: `diagrams/caso_de_uso/`
-  - **Diagrama de Classes**: `diagrams/diagrama_de_classes/`
-  - **Diagrama de Atividade**: `diagrams/diagrama_de_atividade/`
-  - **Diagrama de Sequência**: `diagrams/diagrama_de_sequencia/`
-  - **Diagrama de Pacote**: `diagrams/diagrama_de_pacote/`
+- **Diagrama de Caso de Uso**:[INOVAMOB - Caso de Uso](https://drive.google.com/file/d/1RsqcNnnrXE6dFC8FyGKarGvPzFHGucei/view)
+- **Diagrama de Classes**:    [INOVAMOB - Diagrama de Classes](https://drive.google.com/file/d/1liav5HukRXbK8MjYU3fkFOnTMYGW8bvb/view)
+- **Diagrama de Atividade**:  [INOVAMOB - Diagrama de Atividade](https://drive.google.com/file/d/1AlUIFJybmmDk9kyRVKIDeIlDmI4vDtYj/view)
+- **Diagrama de Sequência**:  [INOVAMOB - Diagrama de Sequência](https://drive.google.com/file/d/1j9QhJPnFZw_-dyTaB5NXEVQ_ZThr-dVW/view)
+- **Diagrama de Pacote**:     [INOVAMOB - Diagrama de Pacote](https://drive.google.com/file/d/1cCW5vYu_9BLIVixE-4TthP2yrLBU4I3X/view)
+- **Lista de Requisitos**:    [INOVAMOB - Diagrama de Pacote](https://drive.google.com/file/d/1Sbm4k-d8lz3kIhARvX7vlts2Hlfo3Wwf/view)
 
-Esse repositório pode ser usado para centralizar as imagens dos diagramas em pastas específicas e referenciar os links diretamente no README do projeto. Certifique-se de fazer o upload das imagens nesses repositórios e usar os links corretos nos lugares indicados no documento.
-
----
-
-Essa versão do README agora inclui os diagramas adicionais que você mencionou, além de um link para um repositório onde as imagens dos diagramas podem ser armazenadas, mantendo tudo organizado e acessível no GitHub.
+Cada link leva diretamente à pasta correspondente no repositório, onde as imagens dos diagramas estão armazenadas. Ao adicionar novas imagens, basta fazer o upload diretamente na pasta relacionada, garantindo que tudo esteja bem organizado e acessível para futuras referências.
