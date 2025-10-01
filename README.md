@@ -108,7 +108,7 @@ Para gerenciar o progresso do projeto **INOVAMOB**, estamos utilizando a metodol
 | **Desenvolver tela de cadastro de usuário** | Em progresso | Willerson | 19/09/2025 |
 | **Implementar funcionalidade de recarga de passe** | Pendente | Paulo | 22/09/2025 |
 | **Criar página de relatórios de recargas** | Concluído | Otávio | 15/09/2025 |
-| **Implementar autenticação e segurança de dados** | Pendente | Luís Gustavo | 25/09/2025 |
+| **Implementar autenticação e segurança de dados** | Pendente | Luiz Gustavo | 25/09/2025 |
 | **Desenvolver dashboard de administração** | Em progresso | Rikio | 18/09/2025 |
 
 ### Visualize o Quadro Kanban
@@ -129,5 +129,3 @@ As imagens dos diagramas utilizados no projeto **INOVAMOB** estão organizadas e
 - **Diagrama de Sequência**:  [INOVAMOB - Diagrama de Sequência](https://drive.google.com/file/d/1j9QhJPnFZw_-dyTaB5NXEVQ_ZThr-dVW/view)
 - **Diagrama de Pacote**:     [INOVAMOB - Diagrama de Pacote](https://drive.google.com/file/d/1cCW5vYu_9BLIVixE-4TthP2yrLBU4I3X/view)
 - **Lista de Requisitos**:    [INOVAMOB - Diagrama de Pacote](https://drive.google.com/file/d/1Sbm4k-d8lz3kIhARvX7vlts2Hlfo3Wwf/view)
-
-Cada link leva diretamente à pasta correspondente no repositório, onde as imagens dos diagramas estão armazenadas. Ao adicionar novas imagens, basta fazer o upload diretamente na pasta relacionada, garantindo que tudo esteja bem organizado e acessível para futuras referências.
